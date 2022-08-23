@@ -42,5 +42,3 @@ fn main() {
     let _ak = ak::create_ak(&mut ctx, ek_result, hash_alg, sign_alg, None, DefaultKey);
     println!("Done!");
 }
-
-
