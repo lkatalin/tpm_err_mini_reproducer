@@ -1,0 +1,9 @@
+[package]
+name = "tpm_err_mini_reproducer"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sergio Correia"]
+
+[dependencies]
+anyhow = "1"
+tss-esapi = "7.1.0"
